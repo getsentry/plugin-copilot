@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "sentry",
-  "version": "1.4.7-dev.2.gcb3ad7df",
+  "version": "1.4.7-dev.5.g45be4057",
   "description": "Sentry plugin for GitHub Copilot: set up monitoring and debug production issues.",
   "author": {
     "name": "Sentry",
